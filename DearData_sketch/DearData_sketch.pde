@@ -6,7 +6,6 @@ color[] categoryColors = {
   color(0, 0, 255), // Blue for Art
   color(255, 255, 0) // Yellow for Food
 };
-float[][] starSizes = {{10, 20}, {15, 25}, {20, 30}, {12, 24}, {18, 28}}; // Min and max sizes for each category
 
 void setup()
 {
